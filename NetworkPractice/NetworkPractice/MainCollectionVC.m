@@ -23,6 +23,7 @@
 
 
 - (void)viewDidAppear:(BOOL)animated{
+//    [[DataCenter shareData] dataCenterSetContent];
 //    [self.mainCollectioView reloadData];
  }
 
